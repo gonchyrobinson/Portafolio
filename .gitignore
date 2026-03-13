@@ -1,0 +1,15 @@
+.next/
+out/
+node_modules/
+.env*.local
+*.tsbuildinfo
+next-env.d.ts
+
+# Playwright MCP logs
+.playwright-mcp/
+
+# Source demo folders (videos are in public/projects/)
+demoBlueCheetah/
+demos-gestionPasantia/
+demos-sistemaRestaurantes/
+demos-tableroKanban/

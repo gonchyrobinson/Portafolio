@@ -1,0 +1,117 @@
+{
+  "nav": {
+    "about": "Sobre Mí",
+    "skills": "Tecnologías",
+    "experience": "Experiencia",
+    "projects": "Proyectos",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "greeting": "Hola, soy",
+    "name": "Gonzalo Robinson",
+    "roles": ["AI Integration Specialist", "Azure OpenAI", "IA Generativa", "Desarrollador Full Stack"],
+    "description": "Especialista en Integración de IA construyendo sistemas de IA listos para producción que escalan. Liderando iniciativas de automatización con Azure OpenAI, creando pipelines potenciados por IA y aprovechando herramientas de IA generativa para acelerar el desarrollo empresarial.",
+    "cta_projects": "Ver Proyectos",
+    "cta_cv": "Descargar CV"
+  },
+  "about": {
+    "title": "Sobre Mí",
+    "bio": "Ingeniero de Software y Especialista en Integración de IA. Graduado en Ingeniería en Informática de la UNT (GPA 8.93/10, mejor promedio de la carrera). Actualmente en Sovos liderando iniciativas de automatización con IA, integrando Azure OpenAI en sistemas empresariales y creando pipelines de PR Review potenciados por IA. Expertise avanzado en herramientas de IA generativa (Cursor, Devin, GitHub Copilot) para acelerar el desarrollo y mejorar la calidad del código. Desarrollo full-stack con React, TypeScript, C#, ASP.NET y SQL.",
+    "stats": {
+      "gpa": "8.93/10 GPA",
+      "gpa_sub": "#1 de la Carrera",
+      "experience": "2+ Años",
+      "experience_sub": "en Sovos",
+      "ai": "Azure OpenAI",
+      "ai_sub": "Integración",
+      "certs": "5 Certificaciones",
+      "certs_sub": "IA & Cloud"
+    },
+    "education_title": "Educación",
+    "education": {
+      "degree": "Ingeniería en Informática",
+      "university": "Universidad Nacional de Tucumán",
+      "period": "2021 – Marzo 2026",
+      "details": "GPA: 8.93/10. Mejor promedio de Ingeniería en Informática. Cuadro de Honor y Escolta de la Bandera Nacional."
+    },
+    "certifications_title": "Certificaciones",
+    "certifications": [
+      "Accelerate Development with AI and Cursor",
+      "AI Coding Agents with GitHub Copilot and Cursor",
+      "Build AI Agents and Automate Workflows with n8n",
+      "Microsoft Azure Fundamentals (AZ-900)",
+      "Programming Foundations: Software Testing/QA"
+    ]
+  },
+  "skills": {
+    "title": "Tecnologías y Habilidades",
+    "categories": {
+      "ai": "IA & IA Generativa",
+      "cloud": "Cloud & DevOps",
+      "backend": "Backend",
+      "frontend": "Frontend",
+      "database": "Base de Datos",
+      "testing": "Testing & QA",
+      "methodologies": "Metodologías"
+    }
+  },
+  "experience": {
+    "title": "Experiencia",
+    "roles": [
+      {
+        "title": "Software Engineer I",
+        "company": "Sovos",
+        "period": "Oct 2024 – Presente",
+        "bullets": [
+          "Líder en Integración de IA: Diseño e implementación de soluciones con Azure OpenAI para automatización de procesos y mejora de productividad",
+          "Especialista en IA Generativa: Uso avanzado de Cursor AI, Devin y GitHub Copilot para acelerar el desarrollo, generar código de alta calidad y optimizar flujos de trabajo",
+          "Automatización con IA: Creación de pipelines con Devin para automatizar PR Review, análisis de código y mejora continua de calidad mediante IA generativa",
+          "CI/CD potenciado por IA: Implementación de pipelines CI/CD con Azure DevOps que incorporan IA para actualizaciones automáticas de dependencias y optimización de despliegues",
+          "Desarrollo de REST APIs que integran Azure OpenAI para procesamiento inteligente de datos y toma de decisiones automatizada",
+          "Construcción de soluciones full-stack escalables con React, TypeScript, C#, ASP.NET y SQL",
+          "Diseño y configuración de infraestructura cloud en Azure para múltiples ambientes (desarrollo, staging, producción)"
+        ]
+      },
+      {
+        "title": "Dev Intern",
+        "company": "Sovos",
+        "period": "Jun 2024 – Oct 2024",
+        "bullets": [
+          "Desarrollo de nuevas funcionalidades en React (frontend) y C#/ASP.NET (backend), aprovechando herramientas de IA para acelerar el desarrollo y mejorar la calidad",
+          "Participación activa en Scrum y metodologías ágiles, code reviews y pair programming con asistencia de IA generativa",
+          "Trabajo con REST APIs, integración de servicios y manejo de versionado con Git"
+        ]
+      },
+      {
+        "title": "QA Intern",
+        "company": "Sovos",
+        "period": "Abr 2024 – Jun 2024",
+        "bullets": [
+          "Desarrollo de suite completa de pruebas E2E con Playwright y TypeScript, cubriendo flujos críticos de usuario",
+          "Implementación de testing automatizado, tests de integración y ejecución de QA manual para asegurar calidad del producto",
+          "Documentación de casos de prueba y reportes de bugs"
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "title": "Proyectos",
+    "view_demo": "Demo en Vivo",
+    "view_video": "Ver Demo",
+    "view_code": "Código Fuente",
+    "close": "Cerrar",
+    "prev_video": "Anterior",
+    "next_video": "Siguiente",
+    "private_badge": "Privado",
+    "slow_badge": "Inicio lento"
+  },
+  "contact": {
+    "title": "Contacto",
+    "subtitle": "Actualmente busco oportunidades como AI Engineer. Si tenés una pregunta o simplemente querés saludar, ¡no dudes en escribirme!",
+    "email_label": "Email"
+  },
+  "footer": {
+    "built_with": "Construido con Next.js, TypeScript y Tailwind CSS",
+    "rights": "Todos los derechos reservados."
+  }
+}
